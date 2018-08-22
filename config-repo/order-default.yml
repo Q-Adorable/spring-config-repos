@@ -15,4 +15,3 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/order
 
-from: version1.0
