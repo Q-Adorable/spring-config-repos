@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1b06915-3382-437d-90c3-4e8c22e3406c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1b06915-3382-437d-90c3-4e8c22e3406c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +20,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="order.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="order.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config-repo/order.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="243">
               <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order-default.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config-repo/order-default.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -46,6 +53,13 @@
         <entry key="$PROJECT_DIR$/../../tw_grad_traim/practice/thirdWeeks/tw_mall_orderserver" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../tw_grad_traim/practice/thirdWeeks/tw_mall_project" value="PREVIEW" />
       </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config-repo/order-default.yml" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -233,8 +247,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config-repo/order.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="243">
           <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/order-default.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
         </state>
       </provider>
     </entry>
