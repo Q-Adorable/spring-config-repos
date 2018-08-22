@@ -12,3 +12,7 @@ hlp:
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/user
+
+debug:
+  jwt-token:
+    enabled: true
