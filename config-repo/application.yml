@@ -1,3 +1,5 @@
+server:
+  port: 6666
 hlp:
   services:
     webapi-gateway:
